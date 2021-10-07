@@ -1,13 +1,15 @@
 BEGIN:VCARD
-VERSION:3.0
-N:Yasar Maymak;;;;
-FN:Yasar Maymak
-ORG:TvJoy
-TITLE:IPTV Ubuntu Security Network Systems
-TEL;TYPE=work,pref:
-TEL;TYPE=work:
-EMAIL;TYPE=work:
-URL:
-KEY:OPENPGP4FPR:zpk20y05tb40
-UID:enbizcard-474563
-END:VCARD
+N: Maymak;Yasar;;;
+ADR; INTL; PARCEL; WORK:; ; Sekerhane Mah;Alanya;Antalya;07400;Turkiye
+ADR; DOM; PARCEL; HOME:; ; Oba Mah;Alanya;Antalya;07400;Turkiye
+EMAIL; INTERNET: senkron24@gmail.com
+EMAIL; INTERNET: support@tvjoy.tv
+EMAIL; INTERNET: senkron24@gmail.com
+ORG: TvJoy
+TEL; WORK: 
+TEL; FAX; WORK: 
+TEL; CELL: +905427885669
+TEL; HOME: 
+TITLE: 
+URL; WORK: www.tvjoy.tv
+URL: http://yasar.tvjoy.tv:88
